@@ -3,6 +3,9 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl w" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -20,8 +23,12 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
+  <action id="RecentFiles" />
   <action id="ShowContent" />
   <action id="SmartTypeCompletion" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
 </keymap>
